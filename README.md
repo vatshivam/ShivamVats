@@ -1,12 +1,29 @@
-## Welcome to GitHub Pages
+## Projects
+
+Here is a list of major data science projects built.
 
 You can use the [editor on GitHub](https://github.com/shivam360d/ShivamVats/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### [Its Ronaldo!](https://shivam360d.github.io/Its-Ronaldo-/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Intro line and Image
+
+
+### [Sahayata](https://shivam360d.github.io/sahayata-Analysis/)
+
+Intro line and Image
+
+
+### [Bon Appetit](https://shivam360d.github.io/Bon-Appetit/)
+
+Intro line and Image
+
+
+### [US Airlines Sentiment Analysis](https://github.com/shivam360d/US-Airlines-Sentiment-Analysis)
+
+Intro line and Image
 
 ```markdown
 Syntax highlighted code block
