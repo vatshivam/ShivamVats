@@ -1,4 +1,6 @@
-## Projects
+# Projects
+
+I have done a few projects from scratch implementing data science techniques. Here is a summary of them:
 
 ## [Its Ronaldo!](https://shivam360d.github.io/Its-Ronaldo-/)
 
