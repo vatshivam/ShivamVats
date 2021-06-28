@@ -1,54 +1,28 @@
 ## Projects
 
-Here is a list of major data science projects built.
+## [Its Ronaldo!](https://shivam360d.github.io/Its-Ronaldo-/)
 
-You can use the [editor on GitHub](https://github.com/shivam360d/ShivamVats/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Gaining insights on game behavior of Cristiano Ronaldo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Its Ronaldo! [:pushpin:](https://shivam360d.github.io/Its-Ronaldo-/)
-
-Intro line and Image
+[images/ronaldo.png]
 
 
-### [Sahayata](https://shivam360d.github.io/sahayata-Analysis/)
+## [Sahayata](https://shivam360d.github.io/sahayata-Analysis/)
 
-Intro line and Image
+Analyze crop prices and related features in North Indian wholesale markets.
 
-
-### [Bon Appetit](https://shivam360d.github.io/Bon-Appetit/)
-
-Intro line and Image
+[images/crop.jpg]
 
 
-### [US Airlines Sentiment Analysis](https://github.com/shivam360d/US-Airlines-Sentiment-Analysis)
+## [Bon Appetit](https://shivam360d.github.io/Bon-Appetit/)
 
-Intro line and Image
+Case study on resturants across the globe to study their cuisines, ratings etc. according to their demographics.
 
-```markdown
-Syntax highlighted code block
+[images/food.jpg]
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## [US Airlines Sentiment Analysis](https://github.com/shivam360d/US-Airlines-Sentiment-Analysis)
 
-1. Numbered
-2. List
+Sentiment classification on US airlines twitter sentiments dataset using NLP.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shivam360d/ShivamVats/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[images/aeroplane.jpg]
