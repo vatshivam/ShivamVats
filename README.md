@@ -1,4 +1,4 @@
-# Portfolio | Shivam Vats
+# Portfolio
 
 I have done a few projects from scratch implementing data science and machine learning methodologies.
 
