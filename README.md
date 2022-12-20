@@ -1,6 +1,13 @@
 # Portfolio | Shivam Vats
 
-I have done a few projects from scratch implementing data science techniques. Here is a summary of them:
+I have done a few projects from scratch implementing data science and machine learning methodologies.
+
+## [Beat Box](https://shivam360d.github.io/Novel_Song_Recommender/)
+
+#### Song Recommendation system leveraging Content Based Filtering and NLP
+
+![beat](images/logo.png)
+
 
 ## [Its Ronaldo!](https://shivam360d.github.io/Its-Ronaldo-/)
 
